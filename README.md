@@ -15,11 +15,7 @@ This organization holds all the codebases used by the Layout List. Feel free to 
 
 
 ## Credits
-**sphericle**: Owner and maintainer of all Layout List repositories, leader of the Layout List.
-
-**evilemperium**: Leader of the Layout List.
-
-**hydraniac**: Leader of the Layout List.
+**sphericle**: Owner and maintainer of all Layout List repositories, co-leader of the Layout List.
 
 **oculations**: Maintainer of Layout List repositories.
 
