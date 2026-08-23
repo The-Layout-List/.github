@@ -11,7 +11,7 @@ This organization holds all the codebases used by the Layout List. Feel free to 
 **[Capella](https://github.com/The-Layout-List/capella)**: A fork of GDColon's [Polaris](https://github.com/GDColon/Polaris-Open) bot for use in the Layout List Discord server. Maintained by [sphericle](https://github.com/sphericle/).
 
 ## In Development
-**[Website Rewrite](https://github.com/The-Layout-List/website-rewrite)** _(Private)_: A complete rewrite of the Layout List website, using Next.js + Prisma Postgres, and React. Developed by the Rewrite Team.
+**[layout-list-v2](https://github.com/The-Layout-List/layout-list-v2)** _(Private)_: A complete rewrite of the Layout List website, using Next.js + Prisma Postgres, and React. Developed by [the LLV2 team](https://github.com/orgs/The-Layout-List/teams/layout-list-v2/members).
 
 ## Credits
 **sphericle**: Owner and maintainer of all Layout List repositories, co-leader of the Layout List.
