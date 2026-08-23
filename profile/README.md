@@ -16,9 +16,9 @@ This organization holds all the codebases used by the Layout List. Feel free to 
 ## Credits
 **sphericle**: Owner and maintainer of all Layout List repositories, co-leader of the Layout List.
 
-**Oculations**: Maintainer of the LL rewrite.
+**Oculations**: Maintainer of LLV2.
 
-**Mystikl**: Developed, and assisted with the development of, some features on [the Layout List website](https://github.com/The-Layout-List/website), maintainer of the LL rewrite, former leader of the Layout List.
+**Mystikl**: Developed, and assisted with the development of, some features on [the Layout List website](https://github.com/The-Layout-List/website), maintainer of LLV2, former leader of the Layout List.
 
 **whit**: Developed some features on [the Layout List website](https://github.com/The-Layout-List/website), former leader of the Layout List.
 
